@@ -289,7 +289,9 @@ Copyright (c) 2015 Daniel Eden
   padding: 11px 22px;
   cursor: pointer;
   background-color: #888;
-  color: #FFFFFF; }
+  color: #FFFFFF;
+   display: inline-flex;
+    align-items: center; }
   .btn:hover, .btn:focus, .btn:active, .btn.active, .btn:active:focus, .btn:active:hover, .btn.active:focus, .btn.active:hover,
   .show > .btn.dropdown-toggle,
   .show > .btn.dropdown-toggle:focus,
